@@ -163,7 +163,7 @@ For technical support or questions:
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
+This project is open source.
 
 ## 👨‍💻 Developer
 
@@ -173,5 +173,6 @@ This project is open source and available under the MIT License.
 - Specializing in advanced light microscopy and image analysis
 
 ---
+
 
 *Developed with ❤️ for the research community* 
